@@ -1,2 +1,2 @@
-# test1
-測試1
+# Hello Git
+This is a git test
